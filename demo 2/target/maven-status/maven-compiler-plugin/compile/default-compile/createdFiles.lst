@@ -1,0 +1,6 @@
+com/example/demo/clients/clientController.class
+com/example/demo/DemoApplication.class
+com/example/demo/clients/client.class
+com/example/demo/clients/ClientRepository.class
+com/example/demo/clients/ClientConfig.class
+com/example/demo/clients/ClientService.class
